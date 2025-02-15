@@ -38,7 +38,7 @@ def find_min_coins(amount):
     return result
 
 
-# Тестування та порівняння ефективності
+# Checking the speed 
 amount = 113
 
 start_time = time.time()
